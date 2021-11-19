@@ -1,0 +1,44 @@
+body {
+ background-color: #F0F8FF;
+ background-image: url(bg3.png); 
+ background-size: cover;
+}
+ .Jlaylist{
+ 	width: 550px;
+ 	height: 700px;
+ 	background: darkkhaki;
+ 	background: rgba(0, 0, 0, 0.2);
+ 	margin: 20px auto;
+ 	margin-top: 2px;
+ }
+ .Jlaylist img{
+ 	width: 120px;
+ 	height: 120px;
+ 	border-radius: 50%;
+ 	margin-left: 220px;
+ 	margin-top: 20px;
+ }
+.Jlaylist h1 {
+	text-align: center;
+	color: darkslategrey;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 4px;
+}
+.Jlaylist h2 {
+	text-align: center;
+	color: darkslategrey;
+	font-weight: bold;
+	font-size: 20px;
+}
+.Jlaylist p{
+	color: grey;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-left: 20px;
+	text-align: center;
+}
+.Jlaylist.icon {
+	padding: 10px;
+
+}
